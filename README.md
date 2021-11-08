@@ -1,6 +1,6 @@
-### Hi, I'm PastelRobot, I am an IT guy, blogger, and linux enthusiast.
+# Hi, I'm PastelRobot, I am an IT guy, blogger, and linux enthusiast.
 
-## My blog
+# My blog
 - https://pastelrobot.gay/
 
 ## My Socials
@@ -12,7 +12,7 @@
 - https://www.youtube.com/channel/UCnZ2GJXF6-nKhMi5dyqfcHw
 - https://www.twitch.tv/pastelrobot332
 
-# Blog posts
+## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Hold My Hand](https://pastelrobot.gay/untitled/)
 - [As Simple As That](https://pastelrobot.gay/as-simple-as-that/)
@@ -21,7 +21,7 @@
 - [I find Myself](https://pastelrobot.gay/i-find-myself/)
 <!-- BLOG-POST-LIST:END -->
 
-# Recent Activity
+## Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. 📔 Created new repository [PastelRobot/PastelRobot](https://github.com/PastelRobot/PastelRobot)
 2. 🔱 Forked [PastelRobot/codeSTACKr](https://github.com/PastelRobot/codeSTACKr) from [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
