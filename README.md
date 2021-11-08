@@ -2,7 +2,10 @@
 
 # My blog
 - https://pastelrobot.gay/
+## Recent Blog Posts
+<!-- BLOG-POST-LIST:START -->
 
+<!-- BLOG-POST-LIST:END -->
 ## My Socials
 
 - https://twitter.com/PastelRobot
@@ -11,15 +14,6 @@
 - https://www.patreon.com/PastelRobot
 - https://www.youtube.com/channel/UCnZ2GJXF6-nKhMi5dyqfcHw
 - https://www.twitch.tv/pastelrobot332
-
-## Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Hold My Hand](https://pastelrobot.gay/untitled/)
-- [As Simple As That](https://pastelrobot.gay/as-simple-as-that/)
-- [PiVPN Tutorial](https://pastelrobot.gay/pivpn/)
-- [Avoiding the Modern Drug](https://pastelrobot.gay/avoiding-the-modern-drug/)
-- [I find Myself](https://pastelrobot.gay/i-find-myself/)
-<!-- BLOG-POST-LIST:END -->
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:start-->
