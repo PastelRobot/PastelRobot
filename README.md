@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi, I'm PastelRobot, I am an IT guy, blogger, and linux enthusiast.
 
-<!--
-**PastelRobot/PastelRobot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Please check out my links
 
-Here are some ideas to get you started:
+- https://pastelrobot.gay/
+- https://twitter.com/PastelRobot
+- https://github.com/PastelRobot
+- https://ko-fi.com/pastelrobot
+- https://www.patreon.com/PastelRobot
+- https://www.youtube.com/channel/UCnZ2GJXF6-nKhMi5dyqfcHw
+- https://www.twitch.tv/pastelrobot332
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+---
+# Recent Activity
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
