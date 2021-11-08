@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  Update Activity:
+  Update-Activity:
     runs-on: ubuntu-latest
     name: Update Activity
     steps:
@@ -14,7 +14,7 @@ jobs:
       - uses: Readme-Workflows/recent-activity@v2.3.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  update-readme-with-blog:
+  Update-Blog:
     name: Update Blog Posts
     runs-on: ubuntu-latest
     steps:
