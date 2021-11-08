@@ -19,7 +19,6 @@
 - [I find Myself](https://pastelrobot.gay/i-find-myself/)
 <!-- BLOG-POST-LIST:END -->
 
----
 # Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. 📔 Created new repository [PastelRobot/PastelRobot](https://github.com/PastelRobot/PastelRobot)
