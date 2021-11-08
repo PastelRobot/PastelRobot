@@ -1,8 +1,10 @@
 ### Hi, I'm PastelRobot, I am an IT guy, blogger, and linux enthusiast.
 
-## Please check out my links
-
+## My blog
 - https://pastelrobot.gay/
+
+## My Socials
+
 - https://twitter.com/PastelRobot
 - https://github.com/PastelRobot
 - https://ko-fi.com/pastelrobot
