@@ -12,7 +12,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-
+- [Hold My Hand](https://pastelrobot.gay/untitled/)
+- [As Simple As That](https://pastelrobot.gay/as-simple-as-that/)
+- [PiVPN Tutorial](https://pastelrobot.gay/pivpn/)
+- [Avoiding the Modern Drug](https://pastelrobot.gay/avoiding-the-modern-drug/)
+- [I find Myself](https://pastelrobot.gay/i-find-myself/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
