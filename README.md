@@ -21,13 +21,13 @@
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [PastelRobot/attila](https://github.com/PastelRobot/attila) from [zutrinken/attila](https://github.com/zutrinken/attila)
+1. ⭐ Starred [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
 2. 🔱 Forked [PastelRobot/attila](https://github.com/PastelRobot/attila) from [zutrinken/attila](https://github.com/zutrinken/attila)
-3. 🔱 Forked [PastelRobot/The-Shell](https://github.com/PastelRobot/The-Shell) from [mityalebedev/The-Shell](https://github.com/mityalebedev/The-Shell)
-4. ⭐ Starred [FloridaGuy0515/NoMoreNitro](https://github.com/FloridaGuy0515/NoMoreNitro)
-5. 🔱 Forked [PastelRobot/SimpleFox](https://github.com/PastelRobot/SimpleFox) from [migueravila/SimpleFox](https://github.com/migueravila/SimpleFox)
+3. 🔱 Forked [PastelRobot/attila](https://github.com/PastelRobot/attila) from [zutrinken/attila](https://github.com/zutrinken/attila)
+4. 🔱 Forked [PastelRobot/The-Shell](https://github.com/PastelRobot/The-Shell) from [mityalebedev/The-Shell](https://github.com/mityalebedev/The-Shell)
+5. ⭐ Starred [FloridaGuy0515/NoMoreNitro](https://github.com/FloridaGuy0515/NoMoreNitro)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 12th, 2022, 9:37:38 AM
+Last Updated: Wednesday, January 12th, 2022, 10:08:21 AM
 <!--RECENT_ACTIVITY:last_update_end-->
