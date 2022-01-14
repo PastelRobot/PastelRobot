@@ -4,11 +4,11 @@
 - https://pastelrobot.gay/
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hard to Say](https://pastelrobot.gay/so-hard-to-say/)
 - [Password Managers and Saving the Web.](https://pastelrobot.gay/saving-the-web/)
 - [Love me or Hate me](https://pastelrobot.gay/love-me-or-hate-me/)
 - [Hold My Hand](https://pastelrobot.gay/untitled/)
 - [As Simple As That](https://pastelrobot.gay/as-simple-as-that/)
-- [PiVPN Tutorial](https://pastelrobot.gay/pivpn/)
 <!-- BLOG-POST-LIST:END -->
 ## My Socials
 
