@@ -22,12 +22,12 @@
 ## Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. 📔 Created new repository [PastelRobot/TF2-Scripts](https://github.com/PastelRobot/TF2-Scripts)
-2. ⭐ Starred [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-3. 🔱 Forked [PastelRobot/attila](https://github.com/PastelRobot/attila) from [zutrinken/attila](https://github.com/zutrinken/attila)
+2. 📔 Created new repository [PastelRobot/TF2-Scripts](https://github.com/PastelRobot/TF2-Scripts)
+3. ⭐ Starred [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
 4. 🔱 Forked [PastelRobot/attila](https://github.com/PastelRobot/attila) from [zutrinken/attila](https://github.com/zutrinken/attila)
-5. 🔱 Forked [PastelRobot/The-Shell](https://github.com/PastelRobot/The-Shell) from [mityalebedev/The-Shell](https://github.com/mityalebedev/The-Shell)
+5. 🔱 Forked [PastelRobot/attila](https://github.com/PastelRobot/attila) from [zutrinken/attila](https://github.com/zutrinken/attila)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 26th, 2022, 11:32:30 AM
+Last Updated: Wednesday, January 26th, 2022, 12:11:07 PM
 <!--RECENT_ACTIVITY:last_update_end-->
