@@ -4,11 +4,11 @@
 - https://pastelrobot.gay/
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Petty Queen](https://pastelrobot.gay/petty-queen/)
+- [Cut-Rate](https://pastelrobot.gay/cut-rate/)
 - [An Honest talk about Crypto](https://pastelrobot.gay/an-honest-talk-about-crypto/)
 - [Hard to Say](https://pastelrobot.gay/so-hard-to-say/)
 - [Password Managers and Saving the Web.](https://pastelrobot.gay/saving-the-web/)
-- [Love me or Hate me](https://pastelrobot.gay/love-me-or-hate-me/)
-- [Hold My Hand](https://pastelrobot.gay/untitled/)
 <!-- BLOG-POST-LIST:END -->
 ## My Socials
 
