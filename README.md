@@ -4,11 +4,11 @@
 - https://pastelrobot.gay/
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I hate to love /u/](https://pastelrobot.gay/i-hate-to-love-u/)
 - [Feel so fake](https://pastelrobot.gay/feel-so-fake/)
 - [Petty Queen](https://pastelrobot.gay/petty-queen/)
 - [Cut-Rate](https://pastelrobot.gay/cut-rate/)
 - [An Honest talk about Crypto](https://pastelrobot.gay/an-honest-talk-about-crypto/)
-- [Hard to Say](https://pastelrobot.gay/so-hard-to-say/)
 <!-- BLOG-POST-LIST:END -->
 ## My Socials
 
