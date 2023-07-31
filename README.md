@@ -21,7 +21,7 @@
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mattdibi/yampad](https://github.com/mattdibi/yampad)
+1. ⭐ Starred [natpen/awesome-wayland](https://github.com/natpen/awesome-wayland)
 2. 📔 Created new repository [PastelRobot/TF2-Scripts](https://github.com/PastelRobot/TF2-Scripts)
 3. 📔 Created new repository [PastelRobot/TF2-Scripts](https://github.com/PastelRobot/TF2-Scripts)
 4. ⭐ Starred [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
@@ -29,5 +29,5 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 31st, 2023, 3:07:55 AM
+Last Updated: Monday, July 31st, 2023, 3:32:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
