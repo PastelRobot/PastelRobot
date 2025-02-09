@@ -6,7 +6,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [The Final Generation](https://pastelrobot.gay/the-final-generation/)
 - [I hate to love /u/](https://pastelrobot.gay/i-hate-to-love-u/)
-- [Feel so fake](https://pastelrobot.gay/feel-so-fake/)
+- [Feel so Fake](https://pastelrobot.gay/feel-so-fake/)
 - [Petty Queen](https://pastelrobot.gay/petty-queen/)
 - [Cut-Rate](https://pastelrobot.gay/cut-rate/)
 <!-- BLOG-POST-LIST:END -->
