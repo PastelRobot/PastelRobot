@@ -4,11 +4,11 @@
 - https://pastelrobot.gay/
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Sister, The Stranger](https://pastelrobot.gay/the-sister-the-stranger/)
 - [Creator](https://pastelrobot.gay/creator/)
 - [The Final Generation](https://pastelrobot.gay/the-final-generation/)
 - [I hate to love /u/](https://pastelrobot.gay/i-hate-to-love-u/)
 - [Feel so Fake](https://pastelrobot.gay/feel-so-fake/)
-- [Petty Queen](https://pastelrobot.gay/petty-queen/)
 <!-- BLOG-POST-LIST:END -->
 ## My Socials
 
