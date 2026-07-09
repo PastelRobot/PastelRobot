@@ -4,7 +4,7 @@
 - https://pastelrobot.gay/
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [The Sister, The Stranger](https://pastelrobot.gay/the-sister-the-stranger/)
+- [Never For Me](https://pastelrobot.gay/never-for-me/)
 - [Creator](https://pastelrobot.gay/creator/)
 - [The Final Generation](https://pastelrobot.gay/the-final-generation/)
 - [I hate to love /u/](https://pastelrobot.gay/i-hate-to-love-u/)
