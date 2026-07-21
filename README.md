@@ -4,11 +4,11 @@
 - https://pastelrobot.gay/
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Childhood Friend](https://pastelrobot.gay/childhood-friend/)
 - [Never For Me](https://pastelrobot.gay/never-for-me/)
 - [Creator](https://pastelrobot.gay/creator/)
 - [The Final Generation](https://pastelrobot.gay/the-final-generation/)
 - [I hate to love /u/](https://pastelrobot.gay/i-hate-to-love-u/)
-- [Feel so Fake](https://pastelrobot.gay/feel-so-fake/)
 <!-- BLOG-POST-LIST:END -->
 ## My Socials
 
